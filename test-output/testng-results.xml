@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23948" started-at="2020-08-31T13:12:36Z" finished-at="2020-08-31T13:13:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23948" started-at="2020-08-31T13:12:36Z" finished-at="2020-08-31T13:13:00Z">
+      <class name="googleMap.AddPlace">
+        <test-method status="PASS" signature="addPlaceGoogleMap()[pri:1, instance:googleMap.AddPlace@61443d8f]" name="addPlaceGoogleMap" duration-ms="16438" started-at="2020-08-31T16:12:36Z" finished-at="2020-08-31T16:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlaceGoogleMap -->
+        <test-method status="PASS" signature="DeletePlaceGoogleMap()[pri:2, instance:googleMap.AddPlace@61443d8f]" name="DeletePlaceGoogleMap" duration-ms="3782" started-at="2020-08-31T16:12:52Z" finished-at="2020-08-31T16:12:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePlaceGoogleMap -->
+        <test-method status="PASS" signature="updatePlaceGoogleMap()[pri:3, instance:googleMap.AddPlace@61443d8f]" name="updatePlaceGoogleMap" duration-ms="3628" started-at="2020-08-31T16:12:56Z" finished-at="2020-08-31T16:13:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePlaceGoogleMap -->
+      </class> <!-- googleMap.AddPlace -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

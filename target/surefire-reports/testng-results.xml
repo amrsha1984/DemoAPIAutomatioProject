@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="46335" started-at="2020-08-31T13:26:30Z" finished-at="2020-08-31T13:27:17Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="46335" started-at="2020-08-31T13:26:30Z" finished-at="2020-08-31T13:27:17Z">
+      <class name="googleMap.AddPlaceTest">
+        <test-method status="PASS" signature="addPlaceGoogleMap()[pri:1, instance:googleMap.AddPlaceTest@73f792cf]" name="addPlaceGoogleMap" duration-ms="32953" started-at="2020-08-31T16:26:30Z" finished-at="2020-08-31T16:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlaceGoogleMap -->
+        <test-method status="PASS" signature="DeletePlaceGoogleMap()[pri:2, instance:googleMap.AddPlaceTest@73f792cf]" name="DeletePlaceGoogleMap" duration-ms="7799" started-at="2020-08-31T16:27:03Z" finished-at="2020-08-31T16:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePlaceGoogleMap -->
+        <test-method status="PASS" signature="updatePlaceGoogleMap()[pri:3, instance:googleMap.AddPlaceTest@73f792cf]" name="updatePlaceGoogleMap" duration-ms="5465" started-at="2020-08-31T16:27:11Z" finished-at="2020-08-31T16:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePlaceGoogleMap -->
+      </class> <!-- googleMap.AddPlaceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
